@@ -1,0 +1,43 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  
+}
+
+
+
+.topnav a {
+  float: left;
+  color: green;
+  text-align: center;
+  padding: 10px;
+  text-decoration: none;
+  font-size: 17px;
+  border:1px dashed red;
+  border-radius: 20px;
+  overflow: auto;
+  margin-left: 45px;
+  margin-bottom: 15px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: yellow;
+  color: black;
+}
+img{
+  height:1000px;
+  width: 1009px;
+  background-position: absolute;
+  overflow: hidden;
+}
+
+.form-box{
+  width:200px;
+  height: 250px;
+  position: relative;
+ margin: 6% auto;
+ padding:5px;
+ overflow: hidden;
+ background:#0fa7d4;
+}
